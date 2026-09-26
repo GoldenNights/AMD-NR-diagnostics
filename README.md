@@ -61,6 +61,12 @@ set up; nothing gets installed on your system, and everything stays in its own f
 Each backend version you added shows up in the **Backend** list. The first time a backend runs it
 builds its model, which takes about a minute, once.
 
+## Support
+
+AMD NR Diagnostics is free. Please support the project:
+
+[![Support the project on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20the%20project-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/goldennights)
+
 ## Your first benchmark
 
 1. **Open image…** (Ctrl+O) and pick a screenshot from a game.
@@ -132,12 +138,6 @@ To uninstall, delete the folder.
   are inside its zip.
 - AMD FidelityFX SDK and ADLX by AMD
 - Nothing from NVIDIA is included: `nvngx_dlssnr.dll` and the model built from it are yours.
-
-## Support
-
-AMD NR Diagnostics is free. Please support the project:
-
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/goldennights)
 
 ## Disclaimer
 
