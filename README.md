@@ -133,6 +133,12 @@ To uninstall, delete the folder.
 - AMD FidelityFX SDK and ADLX by AMD
 - Nothing from NVIDIA is included: `nvngx_dlssnr.dll` and the model built from it are yours.
 
+## Support
+
+AMD NR Diagnostics is free. Please support the project:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/goldennights)
+
 ## Disclaimer
 
 This tool is provided as is, without support or warranty of any kind. It is not made by, or affiliated
