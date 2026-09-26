@@ -1,0 +1,79 @@
+AMD NR Diagnostics - License
+
+Copyright (c) 2026 GoldenNights. All rights reserved.
+
+This license covers AMD NR Diagnostics (the "Software"): the program (AMD-NR-diagnostics.exe and the
+test game packed inside it) and the documentation that comes with it, in every release published on
+the Software's GitHub page.
+
+1. What you may do
+
+   You may download the Software from its GitHub page and use it free of charge, for personal,
+   non-commercial purposes, on computers you own or control that have an AMD Radeon GPU and AMD's
+   driver. The Software may be used only for that purpose.
+
+2. What you may not do
+
+   a) Redistribute the Software or any part of it, modified or unmodified. This includes re-uploading
+      or mirroring it, and bundling it in modpacks, installers or other packages. Link to the
+      Software's GitHub page instead. You may keep a backup copy for yourself.
+   b) Sell the Software, charge for access to it, or use it as part of a paid product or service.
+   c) Modify, decompile, disassemble or reverse engineer the Software, except where applicable law
+      allows it regardless of this restriction.
+   d) Remove or change this license or any copyright, trademark or patent notice.
+
+3. Third-party components
+
+   The Software includes components made by others. They are not covered by this license; each comes
+   with its own:
+   - AMD FidelityFX SDK binaries, packed inside the program: licenses\AMD-FidelityFX-SDK.txt
+   - mochizuki0323's DLSSNR-AMD, with vkd3d-proton, DXVK and MinHook:
+     backends\mochizuki\DLSSNR-AMD-*.zip (the licenses are inside the zip)
+   Where a component's own license gives you rights that this license would restrict, that license
+   applies to that component.
+
+   The Software also contains code licensed to its author by Advanced Micro Devices, Inc. ("AMD").
+   AMD is a third-party beneficiary of this license and may enforce it.
+
+4. Other software
+
+   The Software works together with software that is not part of it and is not covered by this
+   license, including DLSS-NR-on-AMD, NVIDIA software and the games your frames come from. You must
+   obtain and use that software under its own terms. The Software does not include any of NVIDIA's
+   files: nvngx_dlssnr.dll, and the model made from it, are your own.
+
+5. No affiliation
+
+   The Software is an independent project. It is not made, endorsed or supported by danielblnc,
+   mochizuki0323, NVIDIA, AMD or any game publisher. Names and trademarks belong to their owners.
+
+6. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   TITLE AND NON-INFRINGEMENT, OR THAT IT WILL RUN UNINTERRUPTED OR ERROR-FREE. No support is
+   provided. You use the Software at your own risk, including any effect on your GPU, its settings
+   and your system's stability.
+
+7. Limitation of liability
+
+   IN NO EVENT SHALL THE AUTHOR OR ITS LICENSORS (INCLUDING AMD) BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY - DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE - WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   ITS USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. WHERE LIABILITY CANNOT BE EXCLUDED,
+   THEIR TOTAL LIABILITY SHALL NOT EXCEED US$100.
+
+8. Export
+
+   You must comply with all export and import laws that apply to you, including those of the United
+   States, and may not export or transfer the Software in breach of them.
+
+9. End of permission
+
+   Your permission to use the Software ends automatically if you break these terms. You must then
+   delete every copy of it.
+
+10. Updates and later versions
+
+   This license applies to the Software as released and to its updates. A later version may come with
+   different terms; each version is covered by the license included with it.
